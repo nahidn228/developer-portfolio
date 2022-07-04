@@ -53,3 +53,13 @@ h2 {
   box-shadow: 10px 10px 40px gray;
   border-radius: 10px;
 }
+#Full-Stack-Developer {
+  border-left: 7px solid tomato;
+}
+#Baby-Web-Developer {
+  border-left: 7px solid blue;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+}
